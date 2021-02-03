@@ -341,7 +341,7 @@ footer {
   right: 0px;
   left: 50%;
 }
-@media (max-width: 767px){
+@media (max-width: 1170px){
   .section-form-bg:before,
   .section-form-bg:after {
     display: none;
